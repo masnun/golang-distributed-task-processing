@@ -1,0 +1,6 @@
+package: github.com/masnun/golang-dtp
+import:
+- package: github.com/RichardKnop/machinery
+  subpackages:
+  - v1
+  - v1/config
